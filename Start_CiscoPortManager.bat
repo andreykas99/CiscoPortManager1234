@@ -1,0 +1,3 @@
+@echo off
+echo Запуск CiscoPortManager...
+start "" "CiscoPortManager.exe"
